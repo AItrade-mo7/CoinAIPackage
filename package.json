@@ -1,0 +1,12 @@
+{
+  "name": "coin-ai",
+  "version": "0.26.1",
+  "scripts": {
+    "serve": "./_shell/ServerStart.sh",
+    "build": "./_shell/Build.sh",
+    "sync": "./_shell/GitSync.sh",
+    "deploy": "./_shell/Deploy.sh",
+    "task": "./_shell/TaskRun.sh",
+    "task-deploy": "./_shell/TaskDeploy.sh"
+  }
+}
